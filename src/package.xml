@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+	<types>
+		<members>GenLookUpResult</members>
+		<members>GenLookupCntl</members>
+		<members>TestGenLookupCntl</members>
+		<name>ApexClass</name>
+	</types>
+
+	<types>
+		<members>GenLookupEvent</members>
+		<members>GenLookupItemSelectedEvent</members>
+		<members>GenLookupItem</members>
+		<members>GenLookupComp</members>		
+		<name>AuraDefinitionBundle</name>
+	</types>
+    <version>38.0</version>
+</Package>
